@@ -7,4 +7,5 @@
     - rename .env.example file to .env and fill out the environment variables 
 4) Modify script in run.ipynb
     - Make sure it is compatible with your .json files
-5) Run Script in run.ipynb 
+5) Set kernel of run.ipynb to the environment that you created
+5) Run cells in run.ipynb 
