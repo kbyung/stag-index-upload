@@ -1,7 +1,7 @@
 # Azure Search Index Upload Script 
 
 ## To-run 
-1) Create [Python virtual environment] (https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) on your device. 
+1) Create [a Python virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) on your device.
 2) 
 ```
 pip install -r requirements.txt
