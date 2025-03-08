@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 For Windows
 ```
-pip install -r windows_requirements.txt
+pip install -r requirements_windows.txt
 ```
 4) Fill .env variables 
     - rename .env.example file to .env and fill out the environment variables 
