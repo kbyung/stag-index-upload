@@ -2,9 +2,15 @@
 
 ## To-run 
 1) Create [a Python virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) on your device.
-2) 
+
+2) For Mac
 ```
 pip install -r requirements.txt
+```
+
+For Windows
+```
+pip install -r windows_requirements.txt
 ```
 4) Fill .env variables 
     - rename .env.example file to .env and fill out the environment variables 
